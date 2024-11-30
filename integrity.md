@@ -1,4 +1,4 @@
-# 6530200851.github.io
+
 # เปรียบเทียบความหมายของ Data Integrity และ System Integrity
 
 | **หัวข้อ**              | **Data Integrity (ความสมบูรณ์ของข้อมูล)**                                                                                  | **System Integrity (ความสมบูรณ์ของระบบ)**                                                           |
